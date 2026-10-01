@@ -18,7 +18,7 @@ https://github.com/phil-lewis-exe/PythonCheatSheets/blob/main/Week2_cheatsheet.m
 
 ### Part 1: Accessing Elements
 
-Create a new code file called `workshop2b_part1.py`
+Create a new code file called `workshop2_part1.py`
 
 Start the file with the following lines of code:
 
@@ -52,7 +52,7 @@ y
 
 ### Part 2: Modifying, Adding & Removing Elements
 
-Create a new code file called `workshop2b_part2.py`
+Create a new code file called `workshop2_part2.py`
 
 Start the file with the following lines of code:
 
@@ -97,7 +97,7 @@ y
 
 ### Part 3: Organizing a List
 
-Create a new code file called `workshop2b_part3.py`
+Create a new code file called `workshop2_part3.py`
 
 Start the file with the following lines of code:
 
@@ -131,7 +131,7 @@ Part 3:
 
 ### Part 4: Slicing
 
-Create a new code file called `workshop2b_part4.py`
+Create a new code file called `workshop2_part4.py`
 
 Start the file with the following lines of code:
 
@@ -162,7 +162,7 @@ Part 4:
 
 *Check the cheat sheet to see an example on how to use it.*
 
-Create a new code file called `workshop2b_part5.py`
+Create a new code file called `workshop2_part5.py`
 
 Start the file with the following line of code:
 
